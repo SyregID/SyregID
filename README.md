@@ -1,16 +1,16 @@
-### Hi there 👋
+# CLIENT-DEVELOPER
+[`Discord`](https://discord.gg/uKDXFbq) | [`Instagram`](https://www.instagram.com/clientdev.id/) |  [`YouTube`](https://www.youtube.com/channel/UCV6c67PLrgc6CWNzFXiVQSA) | [`Reddit`](https://www.reddit.com/user/client-developer) [`Github`](https://github.com/Client-Developer-ID)
 
-<!--
-**SyregID/SyregID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## STAFF
+| Nama | ID |
+|:-------------:|:----------------------:|
+| `rayhantech#4999` | **585371124766998528** |
+| `rnggadosen._#3854` | **446493832482390017** |
+| `Syreg#8143` | **725959811434414091** |
+| `Bukan-Tada#0964` | **655239517409771521** |
+| `Bartholomeouw#2415` | **627864963418947605** |
 
-Here are some ideas to get you started:
+## DONASI
+[`Trakteer`](https://trakteer.id/clientdev/) | [`Saweria`](https://saweria.co/clientdev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### © Copyright 2020 Client-Developer All Rights Reserved.
